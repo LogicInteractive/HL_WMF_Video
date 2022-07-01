@@ -9,4 +9,6 @@ meaning there is very little overhead on playback and decoding. Probably the fas
 
 And since its using Windows API's there is also no dependencies, no DLL's or anything to include. And should work for 4K video, HDR, Surround etc.
 
+If you want to build the extension, check the local paths in the visual studio setup.
+
 **Windows 8+ only (unfortunately)**
