@@ -1,5 +1,4 @@
 -lib heaps
-# -lib hlsdl
 -lib hldx
 -hl App.hl
 -main Main
