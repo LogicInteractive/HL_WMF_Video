@@ -1,0 +1,10 @@
+-lib heaps
+# -lib hlsdl
+-lib hldx
+-hl App.hl
+-main Main
+-D windowSize=1920x1080
+-D hl_ver=1.12.0
+-cp ../..
+-cp .
+

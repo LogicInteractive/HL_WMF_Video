@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv" "C:\dev\haxe\hashlink\HL_WMF_Video\extension\hlmfvideo.sln" /Build

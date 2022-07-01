@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".",
+		},
+		{
+			"path": "C:\\HaxeToolkit\\haxe\\lib\\heaps\\git"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"format": "cpp",
+			"iosfwd": "cpp",
+			"xlocbuf": "cpp"
+		}
+	}
+}

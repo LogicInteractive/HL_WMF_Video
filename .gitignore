@@ -1,0 +1,6 @@
+extension/x64/
+extension/x64/**
+extension/.vs/
+extension/.vs/**
+res/.tmp/
+res/.tmp/**
